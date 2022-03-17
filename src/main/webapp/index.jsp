@@ -1,5 +1,4 @@
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+  <body background="https://assets.digitalocean.com/blog/static/hacktoberfest-is-back/hero.png">
+  </body>
 </html>
